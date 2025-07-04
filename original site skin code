@@ -345,7 +345,4 @@ a {
   color: #92C1DB;
 }
 
-#workskin p {
-  white-space: pre-line;
-  text-align: left;
-}
+
