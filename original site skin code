@@ -1,0 +1,351 @@
+#main,
+.flash.notice {
+  color: #9edcff;
+}
+
+#header input[type="submit"],
+#main .actions a,
+#main .actions a:visited,
+#main .action,
+#main .actions input,
+#main input[type="submit"],
+#main button,
+#main .current,
+#main .actions label {
+  color: #92c1db !important;
+  border-color: #92C1DB;
+  background: #000 !important;
+  box-shadow: 0 0 30px 0 rgba(61, 170, 245, 0.37), 0 0 30px 0 rgba(30, 206, 239, 0.48);
+}
+
+#header .actions a,
+#header .actions a:visited,
+#header .actions a:hover,
+#header .actions a:focus,
+#footer .actions a,
+#footer .actions a:visited,
+#footer .actions a:hover,
+#footer .actions a:focus {
+  color: #51b7f0;
+}
+
+.thread .even {
+  border-color: #9edcff;
+  background: #000;
+  box-shadow: 0 0 30px 0 rgba(61, 170, 245, 0.37), 0 0 30px 0 rgba(30, 206, 239, 0.48);
+}
+
+.splash .favorite li:nth-of-type(odd) a {
+background: #000;
+}
+
+.actions a,
+.action,
+.actions input,
+input[type="submit"],
+button,
+.current,
+.actions label,
+a.cloud4,
+a.cloud5 {
+  color: #0f4a59;
+}
+
+a:visited,
+a.cloud6 {
+  color: #0f4a59c;
+}
+
+.actions a:active,
+.current,
+a.current,
+.current a:visited {
+  box-shadow: 0 0 24px 0 rgba(61, 170, 245, 0.37), 0 0 30px 0 rgba(30, 206, 239, 0.48);
+}
+
+#login-block,
+li.blurb,
+fieldset,
+form dl,
+#dashboard ul.navigation,
+#dashboard ul,
+#symbols-key dl,
+.toggled form,
+.dynamic form,
+div.comment,
+li.comment,
+.comment div.icon,
+.autocomplete div.dropdown ul,
+#modal,
+.bookmark p.count span,
+.ui-sortable li:hover,
+.actions a:hover,
+.actions input:hover,
+.userstuff blockquote {
+  background: #000;
+  color: #92C1DB;
+  border-color: #92C1DB;
+}
+
+fieldset,
+form dl,
+fieldset dl dl,
+fieldset fieldset fieldset,
+fieldset fieldset dl dl,
+dd.hideme,
+form blockquote.userstuff {
+  box-shadow: 0 0 24px 0 rgba(61, 170, 245, 0.37), 0 0 30px 0 rgba(30, 206, 239, 0.48);
+}
+
+#header .logo {
+  display: none;
+}
+
+#header .heading sup {
+  visibility: hidden;
+}
+
+#main .icon {
+  display: none;
+}
+
+#header .actions a:hover,
+#header .actions a:focus,
+#header .dropdown:hover a,
+#header .open a,
+#header .menu,
+#small_login,
+#header .dropdown:hover .current + .menu,
+#dashboard .current,
+.actions a:active,
+.current,
+a.current,
+.current a:visited,
+span.unread,
+.replied,
+span.claimed,
+dl.index dd,
+.own,
+.draft,
+.draft .wrapper,
+.unread,
+.child,
+.unwrangled,
+.unreviewed {
+  background: #000;
+  color: #92C1DB;
+  box-shadow: 0 0 24px 0 rgba(61, 170, 245, 0.37), 0 0 30px 0 rgba(30, 206, 239, 0.48);
+}
+
+#header #greeting img,
+#header .heading a,
+#header fieldset,
+#header form,
+#header p,
+#header .user a:hover,
+#header .user a:focus,
+#header .user .current,
+#dashboard a:hover,
+#dashboard a:focus,
+.actions a:hover,
+.actions input:hover,
+.delete a,
+span.delete,
+span.unread,
+.replied,
+span.claimed,
+.draggable,
+.droppable,
+span.requested,
+a.work,
+.blurb h4 a:link,
+.blurb h4 img,
+.system .browse h3,
+.system .latest h3,
+.system .random h3,
+.system div.news h3,
+.system .tweets h3,
+.system .favorite h3,
+.required,
+.error,
+a.cloud7,
+a.cloud8,
+h4.viewed.heading {
+  color: #9edcff;
+  background: #000;
+}
+
+input,
+textarea {
+  color: #002b42;
+  border-color: #9edcff;
+  background: #000;
+  box-shadow: 0 0 24px 0 rgba(61, 170, 245, 0.37), 0 0 30px 0 rgba(30, 206, 239, 0.48);
+}
+
+li.blurb,
+.blurb .blurb,
+.listbox .index,
+.dashboard .listbox .index {
+  box-shadow: 0 0 24px 0 rgba(61, 170, 245, 0.37), 0 0 30px 0 rgba(30, 206, 239, 0.48);
+}
+
+li.relationships a,
+.work .relationship a.tag {
+  background: none;
+  font-weight: bold;
+  box-shadow: 0 0 14px 0 rgba(61, 170, 245, 0.37), 0 0 30px 0 rgba(30, 206, 239, 0.48);
+}
+
+.warnings .tag,
+.work .warning a.tag {
+  font-weight: normal;
+  color: #9edcff;
+}
+
+.characters .tag,
+.work .character a.tag {
+  color: #9edcff;
+}
+
+.freeforms .tag,
+.work .freeform a.tag {
+  color: #9edcff;
+}
+
+#header ul.primary {
+  box-shadow: 0 0 24px 0 rgba(61, 170, 245, 0.37), 0 0 30px 0 rgba(30, 206, 239, 0.48);
+}
+
+.autocomplete div.dropdown ul {
+  box-shadow: 0 0 24px 0 rgba(61, 170, 245, 0.37), 0 0 30px 0 rgba(30, 206, 239, 0.48);
+}
+
+table,
+thead td,
+#header #small_login,
+#dashboard a:hover,
+fieldset,
+form dl,
+fieldset dl dl,
+fieldset fieldset fieldset,
+fieldset fieldset dl dl,
+dd.hideme,
+form blockquote.userstuff,
+.ui-sortable li:hover,
+.listbox,
+fieldset fieldset.listbox,
+.comment h4.byline,
+.readings-index h3,
+.search span.tip,
+.flash,
+.notice,
+.error,
+.comment_error {
+  border-color: #9edcff;
+  background: #000;
+}
+
+body,
+#main.error,
+#main.slow,
+#main.maintenance,
+.required .autocomplete,
+.autocomplete .notice,
+.post .required .warnings,
+.listbox .heading,
+.listbox .heading a:visited,
+.userstuff h2,
+.userstuff caption,
+.userstuff table,
+.userstuff td,
+.userstuff col,
+.userstuff tr,
+.userstuff thead,
+.userstuff tfoot,
+.userstuff tbody,
+.userstuff th,
+.userstuff thead td,
+.userstuff th a,
+.userstuff th a:link,
+a.cloud3,
+#header .search input[type="text"] {
+  color: #0f4a59;
+  background: #000;
+}
+
+#main,
+#main.dashboard .wrapper,
+.work.meta.group {
+  border: #9edcff;
+  background-color: #000;
+  color: #9edcff;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.heading {
+  border: #9edcff;
+  background: #000;
+  color: #9edcff;
+}
+
+div.flash {
+  border: none;
+  box-shadow: none;
+}
+
+.blurb h4.heading,
+.blurb .header .heading {
+  margin: 0;
+}
+
+.blurb ul.required-tags {
+  position: initial;
+  top: initial;
+  text-align: center;
+  display: inline-block;
+  width: 100%;
+  margin: auto;
+}
+
+.blurb ul.required-tags li + li + li,
+.blurb ul.required-tags li + li + li + li {
+  position: initial;
+  left: initial;
+}
+
+.blurb ul.required-tags li {
+  display: inline-flex;
+}
+
+.blurb .datetime {
+  position: initial;
+  text-align: center;
+  margin-top: 5px;
+}
+
+#footer.region,
+#footer,
+#modal {
+  border: #92C1DB;
+  background: #000;
+  box-shadow: 0 0 24px 0 rgba(61, 170, 245, 0.37), 0 0 30px 0 rgba(30, 206, 239, 0.48);
+}
+
+#footer.region,
+li.module.group,
+ul.menu,
+li,
+a {
+  color: #92C1DB;
+}
+
+#workskin p {
+  white-space: pre-line;
+  text-align: left;
+}
